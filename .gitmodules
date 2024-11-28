@@ -1,0 +1,6 @@
+[submodule "reddit-clone-frontend"]
+	path = reddit-clone-frontend
+	url = git@github.com:mapokapo/reddit-clone-frontend.git
+[submodule "reddit-clone-backend"]
+	path = reddit-clone-backend
+	url = git@github.com:mapokapo/reddit-clone-backend.git
